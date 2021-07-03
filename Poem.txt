@@ -1,0 +1,9 @@
+A dog
+Animal
+pet
+Friend
+companion
+faithful
+playful
+
+These are the characteristics of my favourite dog.
