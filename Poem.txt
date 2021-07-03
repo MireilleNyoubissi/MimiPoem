@@ -2,8 +2,8 @@ A dog
 Animal
 pet
 Friend
-companion
-faithful
-playful
+Companion
+Faithful
+Playful
 Affectionate
 These are the characteristics of my favourite dog.
